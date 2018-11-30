@@ -6,9 +6,14 @@ html {
     -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
-    background: #007991; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #007991, #78ffd6); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #007991, #78ffd6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* background: #007991; 
+    background: -webkit-linear-gradient(to right, #007991, #78ffd6); 
+    background: linear-gradient(to right, #007991, #78ffd6); */
+	
+background: #41295a;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #03001e, #680aaa, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 body {
@@ -21,14 +26,14 @@ body {
 }
 
 .thumb {
-    width: 100px;
-    height: 100px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
-    border: 2px solid #fff;
+    border: 3px solid #fff;
 }
 
 .intro {
-    margin-top: 40%;
+    margin-top: 30%;
     padding: 20px;
     background-color: rgba(219, 228, 228, 0.48);
     border-radius: 4px;
