@@ -33,13 +33,19 @@ body {
 }
 
 .intro {
-    margin-top: 30%;
+    margin-top: 20%;
     padding: 20px;
     background-color: rgba(219, 228, 228, 0.48);
     border-radius: 4px;
     -webkit-box-shadow: 1px 1px 20px 0px rgba(144, 148, 148, 0.20);
     -moz-box-shadow: 1px 1px 20px 0px rgba(144, 148, 148, 0.20);
     box-shadow: 1px 1px 20px 0px rgba(144, 148, 148, 0.20);
+}
+h1{
+    font-size: 2em
+}
+h2{
+    font-size: 1.2em
 }
 
 .share-icons {
