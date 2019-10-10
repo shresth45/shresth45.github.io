@@ -35,8 +35,8 @@ body {
 .intro {
     margin-top: 20%;
     padding: 20px;
-    background-color: rgba(219, 228, 228, 0.48);
-    border-radius: 4px;
+    background-color: rgba(219, 228, 228, 0.50);
+    border-radius: 10px;
     -webkit-box-shadow: 1px 1px 20px 0px rgba(144, 148, 148, 0.20);
     -moz-box-shadow: 1px 1px 20px 0px rgba(144, 148, 148, 0.20);
     box-shadow: 1px 1px 20px 0px rgba(144, 148, 148, 0.20);
